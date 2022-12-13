@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/RVCC-IDMX/discord-bot-FrederickLamptey/issues"
   },
-  "homepage": "https://github.com/RVCC-IDMX/discord-bot-FrederickLamptey#readme"
+  "homepage": "https://github.com/RVCC-IDMX/discord-bot-FrederickLamptey#readme",
+  "devDependencies": {
+    "@eslint/create-config": "^0.4.1",
+    "eslint": "^8.29.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
 }
